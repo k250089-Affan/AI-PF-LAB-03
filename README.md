@@ -4,6 +4,8 @@
 **bold text**
 _this is for italic_
 ~this is strike through~
+<br/>
+
 Unordered List
 <br/>
 - list 1
