@@ -1,9 +1,11 @@
 # Heading 1
 ## Heading 2
 ### Heading 3
-**bold text**
-_this is for italic_
-~this is strike through~
+**This is for bold text**
+<br/>
+_This is for italic_
+<br/>
+~This is for strike through~
 <br/>
 
 Unordered List
